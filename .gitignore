@@ -1,3 +1,6 @@
+.alpackages
+.vscode
+*.app
 .DS_Store
 node_modules
 /dist
